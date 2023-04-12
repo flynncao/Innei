@@ -1,10 +1,10 @@
 export const opensource = {
   active: [
     'mx-space/kami',
-    'mx-space/mx-server',
+    'mx-space/core',
     'mx-space/mx-admin',
     // 'mx-space/api-client', 
-    'Innei/bump-version',
+    'crossbell/xlog',
   ],
   toys: {
     limit: 3,
