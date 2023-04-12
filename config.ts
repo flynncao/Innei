@@ -4,7 +4,7 @@ export const opensource = {
     'mx-space/core',
     'mx-space/mx-admin',
     // 'mx-space/api-client', 
-    'crossbell/xlog',
+    'crossbell-box/xlog',
   ],
   toys: {
     limit: 3,
