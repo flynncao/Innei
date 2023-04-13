@@ -4,9 +4,11 @@ Innei is a beginner who is passionate about exploring new things in full-stack d
 
 In the developer field, he often actively participates in GitHub and aspires to become a freelancer.
 
+<!--
 > Hey, I am considering looking for remote work opportunities. My resume is [here](https://resume.innei.ren/), feel free to hit me up!
 > 
 > 嘿，我正在考虑寻找远程工作机会，简历在[这里](https://resume.innei.ren/)，欢迎来撩我！
+-->
 
 He has the following skills:
 
@@ -90,7 +92,7 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>4/3/2023</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>3/27/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/simple-clock target=_blank><b>Innei/simple-clock</b></a> <a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/simple-clock?style=flat-square&labelColor=343b41"></td><td>8/22/2020</td><td>3/22/2023</td></tr><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>4/3/2023</td></tr><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>3/27/2023</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -102,7 +104,7 @@ He has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/yetone/bob-plugin-openai-translator>yetone/bob-plugin-openai-translator</a><span> 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！</span></li><li><a href=https://github.com/liuran001/openwrt-packages>liuran001/openwrt-packages</a><span> 国内常用OpenWrt软件包源码合集，每天自动更新，建议使用lean源码</span></li><li><a href=https://github.com/nuxt/devtools>nuxt/devtools</a><span> Unleash Nuxt Developer Experience</span></li><li><a href=https://github.com/shadcn/ui>shadcn/ui</a><span> Beautifully designed components built with Radix UI and Tailwind CSS.</span></li><li><a href=https://github.com/yeahwu/check>yeahwu/check</a><span> Streaming Media Unlock Test</span></li></ul>
+<ul><li><a href=https://github.com/home-assistant/operating-system>home-assistant/operating-system</a><span> :beginner: Home Assistant Operating System</span></li><li><a href=https://github.com/vernesong/OpenClash>vernesong/OpenClash</a><span> A Clash Client For OpenWrt</span></li><li><a href=https://github.com/ivanhao/pvetools>ivanhao/pvetools</a><span> proxmox ve tools script(debian9+ can use it).Including email, samba, NFS set zfs max ram, nested virtualization ,docker , pci passthrough etc. for english user,please look the end of readme.</span></li><li><a href=https://github.com/Schniz/fnm>Schniz/fnm</a><span> 🚀 Fast and simple Node.js version manager, built in Rust</span></li><li><a href=https://github.com/emilkowalski/sonner>emilkowalski/sonner</a><span> An opinionated toast component for React.</span></li></ul>
 
 **Can you find me?**
 
@@ -111,4 +113,4 @@ He has the following skills:
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：4/13/23, 8:28 AM<br>下一次刷新：4/14/23, 8:28 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：4/14/23, 12:19 AM<br>下一次刷新：4/15/23, 12:19 AM</p>
