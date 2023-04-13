@@ -4,9 +4,11 @@ Innei is a beginner who is passionate about exploring new things in full-stack d
 
 In the developer field, he often actively participates in GitHub and aspires to become a freelancer.
 
+<!--
 > Hey, I am considering looking for remote work opportunities. My resume is [here](https://resume.innei.ren/), feel free to hit me up!
 > 
 > 嘿，我正在考虑寻找远程工作机会，简历在[这里](https://resume.innei.ren/)，欢迎来撩我！
+-->
 
 He has the following skills:
 
