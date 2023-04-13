@@ -1,8 +1,8 @@
 # Innei 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=Innei.readme) [![wakatime](https://wakatime.com/badge/user/9213dc96-df0d-4e66-b0bb-50f9e04e988c.svg)](https://wakatime.com/@9213dc96-df0d-4e66-b0bb-50f9e04e988c)
 
-Innei is a beginner who is passionate about exploring new things in full-stack development. Currently, he is a newcomer to the workforce and is located in Shanghai.
+Innei is a beginner who is passionate about exploring new things in full-stack development. Currently, she is a newcomer to the workforce and is located in Shanghai.
 
-In the developer field, he often actively participates in GitHub and aspires to become a freelancer.
+In the developer field, she often actively participates in GitHub and aspires to become a freelancer.
 
 <!--
 > Hey, I am considering looking for remote work opportunities. My resume is [here](https://resume.innei.ren/), feel free to hit me up!
@@ -10,7 +10,7 @@ In the developer field, he often actively participates in GitHub and aspires to 
 > 嘿，我正在考虑寻找远程工作机会，简历在[这里](https://resume.innei.ren/)，欢迎来撩我！
 -->
 
-He has the following skills:
+She has the following skills:
 
 **Web Developer**
 
@@ -92,7 +92,7 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/simple-clock target=_blank><b>Innei/simple-clock</b></a> <a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/simple-clock?style=flat-square&labelColor=343b41"></td><td>8/22/2020</td><td>3/22/2023</td></tr><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>4/3/2023</td></tr><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>3/27/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/reactify-component/react-message target=_blank><b>reactify-component/react-message</b></a> <a href=https://react-message-deeab158i-react-message.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-message?style=flat-square&labelColor=343b41"></td><td>1/13/2022</td><td>3/27/2023</td></tr><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>4/3/2023</td></tr><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>3/22/2023</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -104,7 +104,7 @@ He has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/home-assistant/operating-system>home-assistant/operating-system</a><span> :beginner: Home Assistant Operating System</span></li><li><a href=https://github.com/vernesong/OpenClash>vernesong/OpenClash</a><span> A Clash Client For OpenWrt</span></li><li><a href=https://github.com/ivanhao/pvetools>ivanhao/pvetools</a><span> proxmox ve tools script(debian9+ can use it).Including email, samba, NFS set zfs max ram, nested virtualization ,docker , pci passthrough etc. for english user,please look the end of readme.</span></li><li><a href=https://github.com/Schniz/fnm>Schniz/fnm</a><span> 🚀 Fast and simple Node.js version manager, built in Rust</span></li><li><a href=https://github.com/emilkowalski/sonner>emilkowalski/sonner</a><span> An opinionated toast component for React.</span></li></ul>
+<ul><li><a href=https://github.com/bvaughn/suspense>bvaughn/suspense</a><span> Utilities for working with React Suspense</span></li><li><a href=https://github.com/austin2035/astro-air-blog>austin2035/astro-air-blog</a><span> A minimalist, beautiful, responsive blogging program written in Astro.一个简约、漂亮并且支持响应式的博客程序，基于 Astro 构建。</span></li><li><a href=https://github.com/imDazui/Tvlist-awesome-m3u-m3u8>imDazui/Tvlist-awesome-m3u-m3u8</a><span> 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵</span></li><li><a href=https://github.com/danielroe/magic-regexp>danielroe/magic-regexp</a><span> A compiled-away, type-safe, readable RegExp alternative</span></li><li><a href=https://github.com/godly-devotion/MochiDiffusion>godly-devotion/MochiDiffusion</a><span> Run Stable Diffusion on Mac natively</span></li></ul>
 
 **Can you find me?**
 
@@ -113,4 +113,4 @@ He has the following skills:
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：4/14/23, 12:19 AM<br>下一次刷新：4/15/23, 12:19 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：4/14/23, 12:24 AM<br>下一次刷新：4/15/23, 12:24 AM</p>
