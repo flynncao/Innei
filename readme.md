@@ -92,19 +92,19 @@ She has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/reactify-component/react-shortcut-guide target=_blank><b>reactify-component/react-shortcut-guide</b></a> <a href=https://reactify-component.github.io/react-shortcut-guide/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-shortcut-guide?style=flat-square&labelColor=343b41"></td><td>5/29/2022</td><td>3/16/2023</td></tr><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>4/28/2023</td></tr><tr><td><a href=https://github.com/Innei/simple-clock target=_blank><b>Innei/simple-clock</b></a> <a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/simple-clock?style=flat-square&labelColor=343b41"></td><td>8/22/2020</td><td>3/22/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/next-async target=_blank><b>Innei/next-async</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/next-async?style=flat-square&labelColor=343b41"></td><td>10/24/2022</td><td>2/13/2023</td></tr><tr><td><a href=https://github.com/reactify-component/react-typewriter target=_blank><b>reactify-component/react-typewriter</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-typewriter?style=flat-square&labelColor=343b41"></td><td>12/10/2021</td><td>11/20/2022</td></tr><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>4/28/2023</td></tr></tbody></table>
 
 **Recent Writing...**
 
-<ul><li><span>4/29/23 - <a href=https://innei.ren/notes/145>希望结束是好的开始</a></span></li><li><span>4/23/23 - <a href=https://innei.ren/notes/144>成功人士们的聚会</a></span></li><li><span>4/14/23 - <a href=https://innei.ren/posts/programming/tailwind-built-in-colors-dark-mode>让 Tailwind 内置颜色支持暗黑模式</a></span></li><li><span>4/9/23 - <a href=https://innei.ren/notes/143>挣扎</a></span></li><li><span>3/29/23 - <a href=https://innei.ren/notes/142>雨</a></span></li></ul>
+<ul><li><span>4/28/23 - <a href=https://innei.ren/notes/145>希望结束是好的开始</a></span></li><li><span>4/23/23 - <a href=https://innei.ren/notes/144>成功人士们的聚会</a></span></li><li><span>4/14/23 - <a href=https://innei.ren/posts/programming/tailwind-built-in-colors-dark-mode>让 Tailwind 内置颜色支持暗黑模式</a></span></li><li><span>4/9/23 - <a href=https://innei.ren/notes/143>挣扎</a></span></li><li><span>3/29/23 - <a href=https://innei.ren/notes/142>雨</a></span></li></ul>
 
 **Recent Star...**
 
-<ul></ul>
+<ul><li><a href=https://github.com/vercel/satori>vercel/satori</a><span> Enlightened library to convert HTML and CSS to SVG</span></li><li><a href=https://github.com/chatgpt-prompts/ChatGPT-Midjourney-Prompt-Generator>chatgpt-prompts/ChatGPT-Midjourney-Prompt-Generator</a><span> This turns ChatGPT into a prompt generating machine that acceps only predefined inputs and responds with only predefined outputs.</span></li><li><a href=https://github.com/Crossbell-Box/xLog>Crossbell-Box/xLog</a><span> 🪽 The best on-chain and open-source blogging community for everyone.</span></li><li><a href=https://github.com/Interview-Science/interview-english>Interview-Science/interview-english</a><span> English for Tech Interview 面试中的英语</span></li><li><a href=https://github.com/alex8088/electron-vite>alex8088/electron-vite</a><span> Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护</span></li></ul>
 
 **Review Stared...**
 
-<ul></ul>
+<ul><li><a href=https://github.com/ben-rogerson/twin.macro>ben-rogerson/twin.macro</a><span> 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time.</span></li><li><a href=https://github.com/ueberdosis/tiptap>ueberdosis/tiptap</a><span> The headless editor framework for web artisans.</span></li><li><a href=https://github.com/kiddin9/openwrt-packages>kiddin9/openwrt-packages</a><span> openwrt packages</span></li><li><a href=https://github.com/sxzz/eslint-config>sxzz/eslint-config</a><span> A ESLint config preset.</span></li><li><a href=https://github.com/fbelavenuto/arpl>fbelavenuto/arpl</a><span> Automated Redpill Loader</span></li></ul>
 
 **Can you find me?**
 
@@ -113,4 +113,4 @@ She has the following skills:
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：4/30/23, 8:33 AM<br>下一次刷新：5/1/23, 8:33 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/1/23, 8:32 AM<br>下一次刷新：5/2/23, 8:32 AM</p>
