@@ -4,6 +4,13 @@ Innei is a beginner who is passionate about exploring new things in full-stack d
 
 In the developer field, she often actively participates in GitHub and aspires to become a freelancer.
 
+**💖 Sponsor 赞助**
+
+If my code has been helpful to you, please consider sponsoring me.
+
+- Sponsor: https://innei.ren/sponsor
+- Ethereum, Polygon: 0x0CC14dD429303AEe55bfB56529B81D2a300362Ed
+
 <!--
 > Hey, I am considering looking for remote work opportunities. My resume is [here](https://resume.innei.ren/), feel free to hit me up!
 > 
